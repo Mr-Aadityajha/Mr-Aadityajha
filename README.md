@@ -1,59 +1,95 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2puZ3g3b3V0am80NXBoYm5qdHdzcmg1bnd3Ym15bW90Ynh5bXRxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="40"> Welcome to My Space!
+# 🖥️ Welcome to My GitHub Profile
 
-## 🧠 About Me
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&width=435&lines=Computer+Engineering+Student;Cyber+Security+Enthusiast;Building+Linux+Kernel+Tools" alt="Typing SVG" />
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-* 🎓 **Computer Engineering Student** 🇮🇳  
-* 🔭 **Currently building:** `BlackBox` — a Linux system monitoring tool written in C that interacts with the kernel 🖥️  
-* 🌱 **Focus:** Cyber Security · Network Security · Systems Programming  
-* 💬 **Ask me about:** Python, Java, C, and System Forensics  
+## 👤 About Me
 
----
-
-## 🛠 Tech Stack & Skills
-<p align="left">
-  <!-- Glowing/Animated Badges style -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,java,linux,wireshark,github,vscode" />
-  </a>
-</p>
+🎓 **Computer Engineering Student** 🇮🇳  
+🖥️ **Systems Hacker:** Focus on Cyber Security, Network Security, and Systems Programming  
+🔬 **Kernel Explorer:** Currently building a Linux system monitoring tool that interacts directly with the kernel  
+🔐 **Secure Dev:** Designing projects with secure file handling and access controls  
+📬 Reach me right here via GitHub Issues or Pull Requests!  
+💡 *Philosophy: To defend a system, you must first understand exactly how it breaks.*
 
 ---
 
-## 📊 Performance & Git Status
+## 🧰 Tech Stack
 
-<!-- Live Visual Dashboard -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Aadityajha&show_icons=true&theme=tokyonight&background=0d1117&hide_border=false&title_color=00FFCC&icon_color=00FFCC" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Aadityajha&layout=compact&theme=tokyonight&background=0d1117&hide_border=false&title_color=00FFCC" width="48%" />
-</p>
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### 🏆 Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mr-Aadityajha&theme=tokyonight&no-bg=false&margin-w=4" width="100%" />
-</p>
+### 🔧 Tools, Platforms & Security Tooling
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🐍 Contribution Snake Game
+## 🛡️ Featured Projects
+
+### 🖥️ BlackBox — Linux System Monitoring Tool
+*Systems Programming · C Language · Kernel Interaction*  
+* Developed a lightweight, low-level Linux system monitoring utility written natively in C.
+* Interacts with kernel interfaces to fetch system metrics, track running processes, and audit resource allocation in real-time.
+* **Keywords:** `C Language` `Linux Kernel` `Process Monitoring` `Systems Programming`
+
+### 🏦 Cyber-Bank — Secure Account Management System
+*Software Development · File Handling · Security Fundamentals*  
+* Co-developed a secure banking portal simulation focusing on tight data isolation and memory safety.
+* Implemented strict file handling mechanisms for user credentials, record matching, and transaction logs.
+* **Keywords:** `Data Security` `File Handling` `Account Management` `Logic Design`
+
+---
+
+## 🌐 Events & Industry Exposure
+
+### 🛡️ HackDefence Summit
+📍 *Yamuna Sports Complex*  
+* Attended technical briefs covering wireless network vulnerabilities, telecom risk assessment, and identity management infrastructure.
+* Witnessed real-world offensive vectors including zero-click mobile exploits and wireless signal interception strategies.
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <!-- Dynamic Snake Animation -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Aadityajha&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Aadityajha&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mr-Aadityajha&theme=radical&no-bg=true&no-frame=true" width="100%" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
   <img src="https://github.com/Mr-Aadityajha/Mr-Aadityajha/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+## 🎯 Areas of Interest
+
+🛡️ Network Security & Exploitation • 💻 Systems Programming (C/Linux) • 🔐 Web Application Security • 📱 Forensic Analysis • 🔍 Threat Vector Modeling
+
+---
+
+## 🔑 Security Philosophy
+
+> "Security is not about eliminating every risk. It is about understanding systems, identifying weaknesses, reducing exposure, and making informed decisions that balance execution, functionality, and resilience."
+
+<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0Nmc1b3gwb3B0YnlwczVwZzJna3h5ZzF3bHBoOHdwYndsdW9ndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+  <em>"Learning systems, understanding risks, and building technology more responsibly."</em>
 </p>
 
-> "The best way to predict the future is to build it." — Alan Kay
+<p align="center">
+  <strong>— Aaditya Jha</strong>
+</p>
