@@ -2,12 +2,12 @@ name: Generate Snake
 
 on:
   schedule:
-    # Har 12 ghante me automatic chalega
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
+      - Rat.main
 
 jobs:
   generate:
