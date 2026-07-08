@@ -1,6 +1,13 @@
 # 🖥️ Welcome to My GitHub Profile
 
 &nbsp;&nbsp;&nbsp;&nbsp;
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=007ACC&center=true&vCenter=true&width=500&height=70&lines=AADITYA+JHA" alt="Typing SVG" /></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=007ACC&height=120&section=header&text=%20&fontSize=90" width="100%" />
+</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 👤 About Me
 
