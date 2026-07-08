@@ -1,11 +1,5 @@
-
-# 🖥️ Welcome to My GitHub Profile
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=007ACC&center=true&vCenter=true&width=500&height=70&lines=AADITYA+JHA" alt="Typing SVG" /></p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=007ACC&height=120&section=header&text=%20&fontSize=90" width="100%" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=007ACC&height=150&section=header&text=AADITYA%20JHA&fontSize=40&fontColor=ffffff&fontAlignY=45" alt="Header Banner" width="100%" />
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,6 +30,17 @@
 
 ---
 
+## 🎓 Cybersecurity Training & Programs
+
+### 🛡️ Cyber Geeta — Learn Network Security
+*Technical Consultant & Trainer · Regional & International Delivery*
+* Organized and structuralized a comprehensive training program focusing on foundational network protocols, perimeter defense, and modern exploitation mitigation.
+* Conducted structured multi-lingual training modules including live interactive sessions and revision bootcamps delivered in both Hindi and English.
+* Developed professional instructional design blueprints, curriculum architecture, and public promotional distributions for security upskilling.
+* **Keywords:** `Network Security` `Information Security Training` `Curriculum Architecture` `Technical Training`
+
+---
+
 ## 🛡️ Featured Projects
 
 ### 🖥️ BlackBox — Linux System Monitoring Tool
@@ -54,6 +59,13 @@
 
 ## 🌐 Events & Industry Exposure
 
+### 🤖 India AI Impact Summit
+📍 *Bharat Mandapam, New Delhi*  
+* Explored international advancements at the premier global AI summit, covering sovereign AI models, high-performance compute access, and ethical governance framework architectures.
+* Analyzed real-world application pipelines across foundational AI infrastructure, localized "Small AI" system scaling, and Digital Public Infrastructure (DPI) ecosystems.
+* Tracked the launch vectors of next-generation multimodal regional language processing structures including BharatGen and localized LLM frameworks.
+* **Keywords:** `Artificial Intelligence` `Sovereign AI Infrastructure` `Digital Public Infrastructure` `Governance & Alignment`
+
 ### 🛡️ HackDefence Summit
 📍 *Yamuna Sports Complex*  
 * Attended technical briefs covering wireless network vulnerabilities, telecom risk assessment, and identity management infrastructure.
@@ -64,18 +76,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Aadityajha&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Aadityajha&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Aadityajha&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Aadityajha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mr-Aadityajha&theme=radical&no-bg=true&no-frame=true" width="100%" />
-</p>
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github.com/Mr-Aadityajha/Mr-Aadityajha/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mr-Aadityajha&theme=radical&no-bg=true&no-frame=true" alt="Trophies" width="100%" />
 </p>
 
 ---
