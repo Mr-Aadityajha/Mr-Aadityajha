@@ -51,7 +51,7 @@
 
 - 🎓 **B.Tech Computer Engineering Student** 🇮🇳
 - 🛡️ Focused on **Cyber Security, Network Security, and Systems Programming**
-- 🔭 Currently building **BlackBox** — a low-level Linux system monitoring tool written in C
+- 🔭 Currently building **Healthcare Tech · Real-Time Systems** — An automated allocation dashboard built to process instant hospital bed availability
 - 🔬 Active explorer of **Linux Kernel interfaces** and process auditing metrics
 - 🔐 Designing web/software applications featuring **secure data storage & memory safety**
 - 💡 Philosophy: *To defend a system, you must first understand exactly how it breaks.*
